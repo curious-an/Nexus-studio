@@ -17,9 +17,6 @@ Only the interactive components use client-side rendering: the site header, part
 ```bash
 bun install
 bun run dev
-
-npm install
-npm run dev
 ```
 
 Open http://localhost:3000.
